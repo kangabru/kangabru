@@ -1,3 +1,11 @@
+<div align="center">
+	<br>
+	<a href="https://scottgibbs.me">
+		<img src="kangabru.svg" width="800" height="400" alt="Pixel head">
+	</a>
+	<br>
+</div>
+
 ### Hi there 👋
 
 <!--
